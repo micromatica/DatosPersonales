@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+    <string name="nombre">nombre</string>
+    <string name="msgDatosCorrectos">¿Los datos son correctos?</string>
+</resources>
+
